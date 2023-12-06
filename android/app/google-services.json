@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108295517075",
+    "project_id": "uas-karin",
+    "storage_bucket": "uas-karin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108295517075:android:8b9c9d5ab6773386166e66",
+        "android_client_info": {
+          "package_name": "com.example.uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC7FS0WYLXdiHI8e3cVNHxUHIVigg9DBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
